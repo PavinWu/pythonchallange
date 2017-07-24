@@ -37,4 +37,4 @@ print()
 
 
 ###### solution after applying to url
-ocr
+#ocr
