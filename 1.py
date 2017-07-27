@@ -38,3 +38,6 @@ print()
 
 ###### solution after applying to url
 #ocr
+
+inp = input("Type test")
+print(inp)
